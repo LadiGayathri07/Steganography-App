@@ -1,4 +1,5 @@
-Secure Image Steganography 🔒
+**Secure Image Steganography 🔒**
+
 Securely hide and retrieve secret messages within images using Steganography.
 
 📌 Project Overview
