@@ -1,4 +1,4 @@
-# 🔒 Secure Image Steganography
+# 🔒 Secure Image Steganography - CryptImage
 
 ## 📌 Overview
 Secure Image Steganography is a **web-based tool** that allows users to **hide secret messages inside images** and retrieve them later. This project utilizes **React.js** for the frontend and a **Flask-based API** for encoding and decoding messages within images.
